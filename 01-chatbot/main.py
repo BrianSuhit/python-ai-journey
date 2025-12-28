@@ -2,7 +2,7 @@
 nombre_bot = "Yor"
 
 # 2- saludar
-print(f"Hola soy {nombre_bot} y estoy aquí para ayudarte. Escribe 'salir' para terminar")
+print(f"Hola soy {nombre_bot}, la asistente virtual de Brian y estoy aquí para ayudarte. Escribe 'salir' para terminar")
 print("-" * 30) # Esto hace una línea separadora visual
 
 # 3- bucle infinito ( el programa vive aca dentro )
