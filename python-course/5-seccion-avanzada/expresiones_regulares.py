@@ -45,3 +45,6 @@ resultado = re.findall(r'capitan$', texto, re.MULTILINE)
 
 #busca n cantidad de veces el valor de la izquierda
 resultado = re.findall(r'\d{3}', texto)
+
+#busca minimo n, maximo m
+resultado = re.findall(r'\d{1,3}', texto)
