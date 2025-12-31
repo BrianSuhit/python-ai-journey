@@ -25,6 +25,5 @@ Es una introducción práctica al **NLP (Procesamiento de Lenguaje Natural)**. A
 3.  Ingresar una frase cuando el sistema lo pida (ej: *"Hoy es un día excelente"*).
 
 ---
-**Autor:** Brian Suhit  
+**Autor:** Brian Suhit
 *Estudiante de Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).*
-
