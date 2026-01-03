@@ -14,6 +14,7 @@ Este repositorio irá evolucionando hacia conceptos matemáticos aplicados a la 
 - [✅] **Sentiment Analysis:** Introducción a diccionarios y pesos (Scoring).
 - [✅] **Data Extractor:** Limpieza de datos con RegEx.
 - [✅] **Visual Classifier (KNN):** Algoritmos de clasificación y vectores con pura matemática.
+- [  ] **Text Generator (Markov Chain):** Probabilidad y POO para predecir la siguiente palabra (Mini-GPT).
 
 ---
 **Autor:** Brian Suhit  

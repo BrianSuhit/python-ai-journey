@@ -29,6 +29,7 @@ Implemente el algoritmo **K-Nearest Neighbors (K-Vecinos Más Cercanos)** desde 
 3.  Ingresar valores de prueba (Ej: Peso 4, Altura 20 para un gato).
 4.  Observar el gráfico y luego la clasificación en la terminal.
 
+
 ---
 **Autor:** Brian Suhit  
 *Estudiante de Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).*
