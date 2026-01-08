@@ -67,5 +67,3 @@ if __name__ == "__main__":
 
     # 4. Probamos la generación (Resultados estocásticos)
     mi_ia.predecir("el")
-    mi_ia.predecir("el")
-    mi_ia.predecir("el")

@@ -1,20 +1,26 @@
-# 🐍 Python AI Engineering Journey
+# 1 - Python Fundamentals
 
-Este repositorio documenta mi camino de aprendizaje técnico hasta ser **Ingeniero en Inteligencia Artificial**.
-
-El objetivo no es simplemente usar librerías de alto nivel (como TensorFlow o LangChain) desde el principio, sino **construir la lógica algorítmica desde cero ("Vanilla Python")**.
-
-Como futuro AI Engineer, mi filosofía es entender qué ocurre bajo el capó (algoritmos, estructuras de datos y lógica matemática) antes de abstraerlo con frameworks.
+🐍 Este repositorio contiene la **Primera Fase** de mi formación como Ingeniero en IA.
+Aquí me enfoqué exclusivamente en **construir la lógica desde cero ("Vanilla Python")**, sin utilizar Frameworks ni APIs externas, para comprender los algoritmos base.
 
 ---
 
-## 🔜 Próximos Pasos (Roadmap)
-Este repositorio irá evolucionando hacia conceptos matemáticos aplicados a la IA:
-- [✅] **ChatBot:** Lógica Determinística basada en reglas condicionales.
-- [✅] **Sentiment Analysis:** Introducción a diccionarios y pesos (Scoring).
-- [✅] **Data Extractor:** Limpieza de datos con RegEx.
-- [✅] **Visual Classifier (KNN):** Algoritmos de clasificación y vectores con pura matemática.
-- [✅] **Text Generator (Markov Chain):** Probabilidad y POO para predecir la siguiente palabra (Mini-GPT).
+## 🎯 ¿Qué contiene este repo?
+Proyectos de lógica algorítmica pura:
+- [x] **ChatBot:** Lógica de control de flujo.
+- [x] **Sentiment Analysis:** Estructuras de datos y scoring.
+- [x] **Data Extractor:** Regex y limpieza de datos.
+- [x] **KNN Visual:** Vectores y distancia euclidiana.
+- [x] **Markov Chain:** Probabilidad y generación de texto.
+
+---
+
+## 🚀 Siguientes Pasos
+Este repositorio está **FINALIZADO**.
+Mi camino continúa en los siguientes repositorios especializados:
+
+1.  🗺️ **[AI Roadmap](https://github.com/BrianSuhit/Ai-Engineer-Roadmap):** Mi mapa interactivo de aprendizaje.
+2.  🤖 **[AI Roadmap Projects](LINK_A_FUTURO_REPO):** Proyectos utilizando Modelos Pre-entrenados y APIs.
 
 ---
 **Autor:** Brian Suhit  
